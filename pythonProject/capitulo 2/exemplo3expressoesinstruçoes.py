@@ -1,18 +1,6 @@
-# a maior da prioridade são os parenteses ()
-# depois a exponenciação / potencia
-# depois multiplicação e divisão
-# soma e subtração na ordem das operações
+num1 = 25
+num2 = 17
 
-#exemplo
-
-num1 = 76
-num2 = 5
-num3 = 8
-num4 = 4
-num5 = 10
-num6 = 3
-num7 = 2
-
-total = num1 - (num2 + num3 / num4) * (num5 - num6 * num7)
+total = num1+num2
 
 print (total)
